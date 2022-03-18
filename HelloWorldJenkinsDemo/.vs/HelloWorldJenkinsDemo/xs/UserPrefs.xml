@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{C79BCD31-D856-47D9-9916-D2452C8905C1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorldJenkinsDemo/Program.cs">
+    <Files>
+      <File FileName="HelloWorldJenkinsDemo/Program.cs" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HelloWorldJenkinsDemo FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
